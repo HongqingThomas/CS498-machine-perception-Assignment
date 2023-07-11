@@ -1,0 +1,532 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.24)  1 MAR 2023 15:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/jaime/UIUC Course/intro to machine perception/HW2/mp2.tex"
+(/Users/jaime/UIUC Course/intro to machine perception/HW2/mp2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count193
+\Hy@pagecounter=\count194
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count195
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count196
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen142
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count197
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count198
+\c@Item=\count199
+\c@Hfootnote=\count266
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count267
+\c@bookmark@seq@number=\count268
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip49
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen145
+\captionmargin=\dimen146
+\caption@leftmargin=\dimen147
+\caption@rightmargin=\dimen148
+\caption@width=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
+Package caption Info: hyperref package is loaded.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen153
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen154
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip17
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks18
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks19
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2022/02/07 v1.28a mathematical typesetting tools
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count285
+\calc@Cskip=\skip55
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count286
+\l_MT_multwidth_dim=\dimen164
+\origjot=\skip56
+\l_MT_shortvdotswithinadjustabove_dim=\dimen165
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen166
+\l_MT_above_intertext_sep=\dimen167
+\l_MT_below_intertext_sep=\dimen168
+\l_MT_above_shortintertext_sep=\dimen169
+\l_MT_below_shortintertext_sep=\dimen170
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen171
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)) (./mp2.aux)
+\openout1 = `mp2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen172
+\scratchbox=\box54
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen173
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 16.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count294
+)
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
+ (./mp2.out) (./mp2.out)
+\@outlinefile=\write3
+\openout3 = `mp2.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<fig/pic1ratio0.3.png, id=5, 1003.75pt x 501.875pt>
+File: fig/pic1ratio0.3.png Graphic file (type png)
+<use fig/pic1ratio0.3.png>
+Package pdftex.def Info: fig/pic1ratio0.3.png  used on input line 36.
+(pdftex.def)             Requested size: 151.76854pt x 75.88298pt.
+<fig/pic1ratio4.png, id=6, 1003.75pt x 501.875pt>
+File: fig/pic1ratio4.png Graphic file (type png)
+<use fig/pic1ratio4.png>
+Package pdftex.def Info: fig/pic1ratio4.png  used on input line 37.
+(pdftex.def)             Requested size: 151.76854pt x 75.88298pt.
+<fig/pic1ratio0.6.png, id=7, 1003.75pt x 501.875pt>
+File: fig/pic1ratio0.6.png Graphic file (type png)
+<use fig/pic1ratio0.6.png>
+Package pdftex.def Info: fig/pic1ratio0.6.png  used on input line 38.
+(pdftex.def)             Requested size: 151.76854pt x 75.88298pt.
+ [1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/pic1ratio0.3.png (PNG copy)> <./fig/pic1ratio4.png (PNG copy)> <./fig/pic1ratio0.6.png (PNG copy)>]
+<fig/q2normalized _unction.png, id=25, 759.83875pt x 268.00125pt>
+File: fig/q2normalized _unction.png Graphic file (type png)
+<use fig/q2normalized _unction.png>
+Package pdftex.def Info: fig/q2normalized _unction.png  used on input line 61.
+(pdftex.def)             Requested size: 202.3529pt x 71.37167pt.
+<fig/q2reconstruct.png, id=27, 303.1325pt x 253.94875pt>
+File: fig/q2reconstruct.png Graphic file (type png)
+<use fig/q2reconstruct.png>
+Package pdftex.def Info: fig/q2reconstruct.png  used on input line 62.
+(pdftex.def)             Requested size: 202.3529pt x 169.5209pt.
+<fig/q3threshold0.01iter1.png, id=28, 642.4pt x 481.8pt>
+File: fig/q3threshold0.01iter1.png Graphic file (type png)
+<use fig/q3threshold0.01iter1.png>
+Package pdftex.def Info: fig/q3threshold0.01iter1.png  used on input line 84.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+<fig/q3threshold0.01iter10.png, id=29, 642.4pt x 481.8pt>
+File: fig/q3threshold0.01iter10.png Graphic file (type png)
+<use fig/q3threshold0.01iter10.png>
+Package pdftex.def Info: fig/q3threshold0.01iter10.png  used on input line 85.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+<fig/q3threshold0.01iter100.png, id=30, 642.4pt x 481.8pt>
+File: fig/q3threshold0.01iter100.png Graphic file (type png)
+<use fig/q3threshold0.01iter100.png>
+Package pdftex.def Info: fig/q3threshold0.01iter100.png  used on input line 86.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+ [2 <./fig/q2normalized _unction.png> <./fig/q2reconstruct.png>]
+<fig/q3threshold0.1iter1.png, id=42, 642.4pt x 481.8pt>
+File: fig/q3threshold0.1iter1.png Graphic file (type png)
+<use fig/q3threshold0.1iter1.png>
+Package pdftex.def Info: fig/q3threshold0.1iter1.png  used on input line 99.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+<fig/q3threshold0.1iter10.png, id=43, 642.4pt x 481.8pt>
+File: fig/q3threshold0.1iter10.png Graphic file (type png)
+<use fig/q3threshold0.1iter10.png>
+Package pdftex.def Info: fig/q3threshold0.1iter10.png  used on input line 100.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+<fig/q3threshold0.1iter100.png, id=44, 642.4pt x 481.8pt>
+File: fig/q3threshold0.1iter100.png Graphic file (type png)
+<use fig/q3threshold0.1iter100.png>
+Package pdftex.def Info: fig/q3threshold0.1iter100.png  used on input line 101.
+(pdftex.def)             Requested size: 151.76854pt x 113.82585pt.
+<fig/Q4_Q2Image1.png, id=46, 3083.52pt x 2055.68pt>
+File: fig/Q4_Q2Image1.png Graphic file (type png)
+<use fig/Q4_Q2Image1.png>
+Package pdftex.def Info: fig/Q4_Q2Image1.png  used on input line 111.
+(pdftex.def)             Requested size: 202.3529pt x 134.87857pt.
+<fig/Q4_Q2img2.png, id=47, 3083.52pt x 2055.68pt>
+File: fig/Q4_Q2img2.png Graphic file (type png)
+<use fig/Q4_Q2img2.png>
+Package pdftex.def Info: fig/Q4_Q2img2.png  used on input line 112.
+(pdftex.def)             Requested size: 202.3529pt x 134.87857pt.
+<fig/Q4_Q3img1.png, id=48, 2015.53pt x 1344.02126pt>
+File: fig/Q4_Q3img1.png Graphic file (type png)
+<use fig/Q4_Q3img1.png>
+Package pdftex.def Info: fig/Q4_Q3img1.png  used on input line 116.
+(pdftex.def)             Requested size: 202.3529pt x 134.9227pt.
+<fig/Q4_Q3Img2.png, id=49, 2015.53pt x 1344.02126pt>
+File: fig/Q4_Q3Img2.png Graphic file (type png)
+<use fig/Q4_Q3Img2.png>
+Package pdftex.def Info: fig/Q4_Q3Img2.png  used on input line 117.
+(pdftex.def)             Requested size: 202.3529pt x 134.9227pt.
+ [3 <./fig/q3threshold0.01iter1.png (PNG copy)> <./fig/q3threshold0.01iter10.png (PNG copy)> <./fig/q3threshold0.01iter100.png (PNG copy)> <./fig/q3threshold0.1iter1.png (PNG copy)> <./fig/q3threshold0.1iter10.png (PNG copy)> <./fig/q3threshold0.1iter100.png (PNG copy)> <./fig/Q4_Q2Image1.png (PNG copy)> <./fig/Q4_Q2img2.png (PNG copy)>]
+<fig/Q4visualize.png, id=55, 740.7675pt x 493.845pt>
+File: fig/Q4visualize.png Graphic file (type png)
+<use fig/Q4visualize.png>
+Package pdftex.def Info: fig/Q4visualize.png  used on input line 122.
+(pdftex.def)             Requested size: 202.3529pt x 134.89977pt.
+<fig/q5img1.png, id=56, 963.6pt x 570.13pt>
+File: fig/q5img1.png Graphic file (type png)
+<use fig/q5img1.png>
+Package pdftex.def Info: fig/q5img1.png  used on input line 134.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+<fig/q5img2.png, id=57, 963.6pt x 570.13pt>
+File: fig/q5img2.png Graphic file (type png)
+<use fig/q5img2.png>
+Package pdftex.def Info: fig/q5img2.png  used on input line 135.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+<fig/q5img4.png, id=58, 963.6pt x 570.13pt>
+File: fig/q5img4.png Graphic file (type png)
+<use fig/q5img4.png>
+Package pdftex.def Info: fig/q5img4.png  used on input line 136.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+ [4 <./fig/Q4_Q3img1.png (PNG copy)> <./fig/Q4_Q3Img2.png (PNG copy)> <./fig/Q4visualize.png> <./fig/q5img1.png> <./fig/q5img2.png> <./fig/q5img4.png>]
+<fig/q5function1.png, id=69, 556.0775pt x 420.57124pt>
+File: fig/q5function1.png Graphic file (type png)
+<use fig/q5function1.png>
+Package pdftex.def Info: fig/q5function1.png  used on input line 156.
+(pdftex.def)             Requested size: 151.76854pt x 114.78789pt.
+<fig/q5function2.png, id=70, 307.1475pt x 183.68625pt>
+File: fig/q5function2.png Graphic file (type png)
+<use fig/q5function2.png>
+Package pdftex.def Info: fig/q5function2.png  used on input line 157.
+(pdftex.def)             Requested size: 151.76854pt x 90.7638pt.
+<fig/Q5right1.png, id=71, 963.6pt x 570.13pt>
+File: fig/Q5right1.png Graphic file (type png)
+<use fig/Q5right1.png>
+Package pdftex.def Info: fig/Q5right1.png  used on input line 163.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+<fig/Q5 right 2.png, id=72, 963.6pt x 570.13pt>
+File: fig/Q5 right 2.png Graphic file (type png)
+<use fig/Q5 right 2.png>
+Package pdftex.def Info: fig/Q5 right 2.png  used on input line 164.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+<fig/Q5 right3.png, id=73, 963.6pt x 570.13pt>
+File: fig/Q5 right3.png Graphic file (type png)
+<use fig/Q5 right3.png>
+Package pdftex.def Info: fig/Q5 right3.png  used on input line 165.
+(pdftex.def)             Requested size: 151.76854pt x 89.79594pt.
+ [5 <./fig/q5function1.png> <./fig/q5function2.png> <./fig/Q5right1.png> <./fig/Q5 right 2.png> <./fig/Q5 right3.png>]
+<fig/q6function2.png, id=87, 134.5025pt x 89.33376pt>
+File: fig/q6function2.png Graphic file (type png)
+<use fig/q6function2.png>
+Package pdftex.def Info: fig/q6function2.png  used on input line 190.
+(pdftex.def)             Requested size: 101.17645pt x 67.19916pt.
+<fig/q6disparity.png, id=88, 642.4pt x 481.8pt>
+File: fig/q6disparity.png Graphic file (type png)
+<use fig/q6disparity.png>
+Package pdftex.def Info: fig/q6disparity.png  used on input line 197.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/q6disparitycompare.png, id=89, 642.4pt x 481.8pt>
+File: fig/q6disparitycompare.png Graphic file (type png)
+<use fig/q6disparitycompare.png>
+Package pdftex.def Info: fig/q6disparitycompare.png  used on input line 198.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/q6function.png, id=90, 974.64125pt x 1077.02374pt>
+File: fig/q6function.png Graphic file (type png)
+<use fig/q6function.png>
+Package pdftex.def Info: fig/q6function.png  used on input line 203.
+(pdftex.def)             Requested size: 177.06458pt x 195.66365pt.
+ [6 <./fig/q6function2.png> <./fig/q6disparity.png (PNG copy)> <./fig/q6disparitycompare.png (PNG copy)> <./fig/q6function.png>]
+<fig/q6multicalculationfunction.png, id=97, 1375.1375pt x 272.01625pt>
+File: fig/q6multicalculationfunction.png Graphic file (type png)
+<use fig/q6multicalculationfunction.png>
+Package pdftex.def Info: fig/q6multicalculationfunction.png  used on input line 210.
+(pdftex.def)             Requested size: 177.06458pt x 35.023pt.
+<fig/q6SADoutput.png, id=98, 642.4pt x 481.8pt>
+File: fig/q6SADoutput.png Graphic file (type png)
+<use fig/q6SADoutput.png>
+Package pdftex.def Info: fig/q6SADoutput.png  used on input line 215.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/q6SADcompared.png, id=99, 642.4pt x 481.8pt>
+File: fig/q6SADcompared.png Graphic file (type png)
+<use fig/q6SADcompared.png>
+Package pdftex.def Info: fig/q6SADcompared.png  used on input line 216.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/q6ncoutput.png, id=100, 642.4pt x 481.8pt>
+File: fig/q6ncoutput.png Graphic file (type png)
+<use fig/q6ncoutput.png>
+Package pdftex.def Info: fig/q6ncoutput.png  used on input line 221.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/Q6nccompared.png, id=101, 642.4pt x 481.8pt>
+File: fig/Q6nccompared.png Graphic file (type png)
+<use fig/Q6nccompared.png>
+Package pdftex.def Info: fig/Q6nccompared.png  used on input line 222.
+(pdftex.def)             Requested size: 177.06458pt x 132.79314pt.
+<fig/q6bonus0.001.png, id=102, 963.6pt x 570.13pt>
+File: fig/q6bonus0.001.png Graphic file (type png)
+<use fig/q6bonus0.001.png>
+Package pdftex.def Info: fig/q6bonus0.001.png  used on input line 239.
+(pdftex.def)             Requested size: 177.06458pt x 104.75903pt.
+<fig/Q6bonus0.1.png, id=103, 963.6pt x 570.13pt>
+File: fig/Q6bonus0.1.png Graphic file (type png)
+<use fig/Q6bonus0.1.png>
+Package pdftex.def Info: fig/Q6bonus0.1.png  used on input line 240.
+(pdftex.def)             Requested size: 177.06458pt x 104.75903pt.
+ [7 <./fig/q6multicalculationfunction.png> <./fig/q6SADoutput.png (PNG copy)> <./fig/q6SADcompared.png (PNG copy)> <./fig/q6ncoutput.png (PNG copy)> <./fig/Q6nccompared.png (PNG copy)>]
+<fig/Q6bouns1.png, id=110, 963.6pt x 570.13pt>
+File: fig/Q6bouns1.png Graphic file (type png)
+<use fig/Q6bouns1.png>
+Package pdftex.def Info: fig/Q6bouns1.png  used on input line 245.
+(pdftex.def)             Requested size: 177.06458pt x 104.75903pt.
+<fig/Q6bonus2.png, id=111, 963.6pt x 570.13pt>
+File: fig/Q6bonus2.png Graphic file (type png)
+<use fig/Q6bonus2.png>
+Package pdftex.def Info: fig/Q6bonus2.png  used on input line 246.
+(pdftex.def)             Requested size: 177.06458pt x 104.75903pt.
+<fig/Q6bonus3inf.png, id=112, 963.6pt x 570.13pt>
+File: fig/Q6bonus3inf.png Graphic file (type png)
+<use fig/Q6bonus3inf.png>
+Package pdftex.def Info: fig/Q6bonus3inf.png  used on input line 247.
+(pdftex.def)             Requested size: 177.06458pt x 104.75903pt.
+ [8 <./fig/q6bonus0.001.png> <./fig/Q6bonus0.1.png> <./fig/Q6bouns1.png> <./fig/Q6bonus2.png> <./fig/Q6bonus3inf.png>] (./mp2.aux)
+Package rerunfilecheck Info: File `mp2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 11584 strings out of 478268
+ 188108 string characters out of 5846347
+ 483087 words of memory out of 5000000
+ 29614 multiletter control sequences out of 15000+600000
+ 475810 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,7n,77p,1160b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on mp2.pdf (8 pages, 13440158 bytes).
+PDF statistics:
+ 180 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+

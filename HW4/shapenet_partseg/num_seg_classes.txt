@@ -1,0 +1,8 @@
+Airplane 4
+Car 4
+Chair 4
+Guitar 3
+Knife 2
+Lamp 4
+Laptop 2
+Pistol 3
